@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/moonechoes/static/css/main.2db608f2.chunk.css",
+    "main.js": "/moonechoes/static/js/main.130e1e95.chunk.js",
+    "main.js.map": "/moonechoes/static/js/main.130e1e95.chunk.js.map",
+    "runtime-main.js": "/moonechoes/static/js/runtime-main.9ebadb35.js",
+    "runtime-main.js.map": "/moonechoes/static/js/runtime-main.9ebadb35.js.map",
+    "static/js/2.a7c97d2a.chunk.js": "/moonechoes/static/js/2.a7c97d2a.chunk.js",
+    "static/js/2.a7c97d2a.chunk.js.map": "/moonechoes/static/js/2.a7c97d2a.chunk.js.map",
+    "index.html": "/moonechoes/index.html",
+    "static/css/main.2db608f2.chunk.css.map": "/moonechoes/static/css/main.2db608f2.chunk.css.map",
+    "static/js/2.a7c97d2a.chunk.js.LICENSE.txt": "/moonechoes/static/js/2.a7c97d2a.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/moonechoes/static/media/night.255456c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ebadb35.js",
+    "static/js/2.a7c97d2a.chunk.js",
+    "static/css/main.2db608f2.chunk.css",
+    "static/js/main.130e1e95.chunk.js"
+  ]
+}
